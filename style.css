@@ -104,6 +104,21 @@ a.nav-link{
 	opacity:.20;
 }  
 
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+
 .intro {
 	text-align:center;
     color: var(--main-fonts-color);
@@ -162,6 +177,8 @@ a.nav-link{
 /*──────────────────
       projects
 ──────────────────*/
+
+
 
 #projects{
 	margin-top:100px;
@@ -409,8 +426,3 @@ hr {
 .nav-active{
 	transform:translatex(0%);
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
